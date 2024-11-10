@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mdsai\\OneDrive\\Desktop\\NewImg102\\ImagePreview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72DA4568-0537-477A-B8E3-95D857F1854D}|ImagePreview.csproj|c:\\users\\mdsai\\onedrive\\desktop\\newimg102\\imagepreview\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72DA4568-0537-477A-B8E3-95D857F1854D}|ImagePreview.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mdsai\\OneDrive\\Desktop\\NewImg102\\ImagePreview\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "C:\\Users\\mdsai\\OneDrive\\Desktop\\NewImg102\\ImagePreview\\UserControl1.cs [Design]",
+              "RelativeToolTip": "UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:35:05.041Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

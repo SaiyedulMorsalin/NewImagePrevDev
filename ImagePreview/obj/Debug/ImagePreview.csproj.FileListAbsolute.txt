@@ -1,0 +1,6 @@
+C:\Users\mdsai\OneDrive\Desktop\NewImg102\ImagePreview\bin\Debug\ImagePreview.dll
+C:\Users\mdsai\OneDrive\Desktop\NewImg102\ImagePreview\bin\Debug\ImagePreview.pdb
+C:\Users\mdsai\OneDrive\Desktop\NewImg102\ImagePreview\obj\Debug\ImagePreview.csproj.AssemblyReference.cache
+C:\Users\mdsai\OneDrive\Desktop\NewImg102\ImagePreview\obj\Debug\ImagePreview.csproj.CoreCompileInputs.cache
+C:\Users\mdsai\OneDrive\Desktop\NewImg102\ImagePreview\obj\Debug\ImagePreview.dll
+C:\Users\mdsai\OneDrive\Desktop\NewImg102\ImagePreview\obj\Debug\ImagePreview.pdb
